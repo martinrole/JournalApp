@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas archivo Types Debe de tener los types completos 1`] = `
+Object {
+  "login": "[Auth] Login",
+  "logout": "[Auth] Logout",
+  "notesActive": "[Notes] Set Active",
+  "notesAdd": "[Notes] New Note",
+  "notesClear": "[Notes] Clear Notes",
+  "notesDelete": "[Notes] Delete Note",
+  "notesFileUrl": "[Notes] Update Image URL",
+  "notesLoad": "[Notes] Load Notes",
+  "notesUpdate": "[Notes] Update Note",
+  "uiLoadingOff": "[UI] Loading OFF",
+  "uiLoadingOn": "[UI] Loading ON",
+  "uiRemoveError": "[UI] Remove Error",
+  "uiSetError": "[UI] Set Error",
+}
+`;

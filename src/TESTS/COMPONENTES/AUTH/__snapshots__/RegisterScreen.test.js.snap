@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en componente RegisterScreen Debe mostrar el componente correctamente 1`] = `
+Array [
+  <h3
+    className="auth__title"
+  >
+    Register Screen
+  </h3>,
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      autoComplete="off"
+      className="auth__input"
+      name="nombre"
+      onChange={[Function]}
+      placeholder="Nombre"
+      type="text"
+      value="Martin"
+    />
+    <input
+      autoComplete="off"
+      className="auth__input"
+      name="correo"
+      onChange={[Function]}
+      placeholder="Correo"
+      type="text"
+      value="pruebaMartin@hotmail.com"
+    />
+    <input
+      className="auth__input"
+      name="contrasena"
+      onChange={[Function]}
+      placeholder="Contraseña"
+      type="password"
+      value="12nj3nh4"
+    />
+    <input
+      className="auth__input"
+      name="contrasena2"
+      onChange={[Function]}
+      placeholder="Confirmar contraseña"
+      type="password"
+      value="12nj3nh4"
+    />
+    <button
+      className="btn btn-primario btn-bloque mt-1"
+      type="submit"
+    >
+      Register
+    </button>
+  </form>,
+  <a
+    className="auth__new-count"
+    href="/auth/login"
+    onClick={[Function]}
+  >
+     Already registered?
+  </a>,
+]
+`;
